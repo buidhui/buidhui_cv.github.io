@@ -1,2 +1,3 @@
 # buidhui_cv.github.io
-mycv
+
+https://buidhui.github.io/buidhui_cv.github.io/
